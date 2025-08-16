@@ -168,8 +168,8 @@ python3 verificar_cadena.py
 
 ## 📞 Contacto
 
-**Estudiante:** [Tu Nombre]  
-**Email:** [tu.email@um.edu.ar]  
+**Estudiante:** Benavidez Agustin  
+**Email:** a.benavidez@alumno.um.edu.ar  
 **Universidad:** Universidad de Mendoza  
 **Carrera:** Ingeniería en Informática  
 
