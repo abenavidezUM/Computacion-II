@@ -1,0 +1,21 @@
+REPORTE DE ANÁLISIS BIOMÉTRICO CON BLOCKCHAIN
+==================================================
+
+📈 ESTADÍSTICAS GENERALES
+-------------------------
+Total de bloques procesados: 60
+Bloques con alertas médicas: 0
+Porcentaje de alertas: 0.0%
+Integridad de la cadena: 100.0%
+
+🏥 PROMEDIOS BIOMÉTRICOS
+-------------------------
+Frecuencia cardíaca promedio: 114.42 bpm
+Presión arterial promedio: 148.11 mmHg
+Oxígeno en sangre promedio: 94.07%
+
+🔐 VERIFICACIÓN DE INTEGRIDAD
+------------------------------
+✅ Blockchain íntegra - Sin bloques corruptos
+
+Reporte generado: 2025-08-16 10:53:06
